@@ -1,0 +1,8 @@
+.btn {
+  display: inline-block;
+  padding: $btn-padding-y $btn-padding-x;
+  border: $border-width solid $border-color;
+  border-radius: $border-radius;
+  cursor: pointer;
+  margin-right: 10px;
+}
